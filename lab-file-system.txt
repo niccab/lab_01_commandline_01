@@ -271,7 +271,7 @@ What command did you use?
 27. What's the shortcut for home directory?
 ----------
 
-
+ 
 
 ==========
 28. What's a pathname?
