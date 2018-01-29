@@ -292,8 +292,10 @@ A pathname is the general form of the name of a file or directory; it specifies 
 29. What's a directory?
 ----------
 
-
+A directory is a cataloging structure on a file system that references other files (and directories)
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+
+/Users/student/Downloads
