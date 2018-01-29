@@ -32,7 +32,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
+/Users/student/mtec1002
 
 ==========
 5. Type:
@@ -43,7 +43,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animals
 
 ==========
 6. Type:
@@ -54,7 +54,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animals	food
 
 ==========
 7. Type:
@@ -65,7 +65,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animals	foo	food
 
 ==========
 8. Type:
@@ -76,7 +76,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/mtec1002/foo/bar/baz/qux
 
 ==========
 9. Type:
