@@ -87,7 +87,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/mtec1002/foo/bar
 
 ==========
 10. Type:
@@ -98,6 +98,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
+/Users/student/mtec1002/foo/bar/baz/qux
 
  
 ==========
@@ -109,7 +110,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/mtec1002
 
 ==========
 12. Type:
@@ -121,7 +122,9 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+*
+*
+*
 
 ==========
 13. Type:
