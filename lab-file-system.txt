@@ -122,9 +122,9 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-*
-*
-*
+total 0
+drwxr-xr-x  3 student  staff  102 Jan 29 16:08 foo
+drwxr-xr-x  2 student  staff   68 Jan 29 16:07 food
 
 ==========
 13. Type:
@@ -135,7 +135,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/student
 
 ==========
 14. Type:
@@ -146,6 +146,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
+/Volumes
 
 
 ==========
@@ -157,6 +158,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
+/Volumes
 
 
 ==========
@@ -168,7 +170,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/student/mtec1002
 
 ==========
 16. Type:
@@ -178,13 +180,13 @@ $ hostname
 Copy and paste the output into the space below.
 ----------
 
-
+ent-v314-004.local
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+pwd
 
 ==========
 17b. If you're not in the right directory, type the following command:
